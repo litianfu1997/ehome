@@ -1,12 +1,18 @@
 <view class="main con-column">
   <view class="main-box con-column">
     <view class="top-box con-column">
-      <view class="title">关于成立小康小区业主委员会</view>
+     
+      
+
+    <view class="page">
+      <view class="page__bd">
+ <view class="title">关于成立小康小区业主委员会</view>
       <view class="top-item con-row">
         <view class="top-left">发起人：小明</view>
         <view class="top-right">时间：2019-10-01</view>
       </view>
-      <view class="vote-big con-row">
+
+<view class="vote-big con-row">
         <view class="vote-box con-row">
           <view class="vote con-column">
             <view class="vote-item con-column">
@@ -36,8 +42,6 @@
       </view>
 
     </view>
-    <view class="page">
-      <view class="page__bd">
         <view class="weui-article">
           <view class="weui-article__section">
             <view class="weui-article__h2">章标题</view>
